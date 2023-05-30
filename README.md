@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JAVA-A30701?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
-<br>
+<br><br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUWONYezi&show_icons=true&theme=default)
 
