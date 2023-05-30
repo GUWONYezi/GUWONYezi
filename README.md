@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://img.shields.io/badge/#FECC00?style=for-the-badge&logo=amazonaws&logoColor=white">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUWONYezi&show_icons=true&theme=default)
