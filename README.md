@@ -1,3 +1,4 @@
+<center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=200&section=header&text=Hello&fontSize=90&fontColor=fff" />
 
 <!--
@@ -19,3 +20,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/amazonaws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUWONYezi&show_icons=true&theme=default)
+</center>
