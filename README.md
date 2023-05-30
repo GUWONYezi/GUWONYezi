@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=200&section=header&text=Hello&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=200&section=header&text=Hello&fontSize=90&fontColor=fff" />
 
 <!--
 **GUWONYezi/GUWONYezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
